@@ -1,8 +1,14 @@
-# React + Vite
+# Password Generator
+Made a random password generator in which i learned about useEffect, useCallback, useRef and useState hooks of the react. it helped me get intro about each mentioned hook's  working and there use.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features of password generator:
 
-Currently, two official plugins are available:
+- set the required length of password
+- choose whether to include special characters or numbers
+- copy the generated password to the clipboard
+  
+## Github Repo Link:
+[Open Github](https://github.com/yuvraj08-netweb/passwordGenerator)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo Of Password Generator:
+[Generate Password ->](https://yuvraj-password-generator.netlify.app)
